@@ -46,3 +46,5 @@ word2 = "leetcode"
 0 : index of l in alien dictionary -> 1
 
 Explanation: As 'h' comes before 'l' in this language, then the sequence is sorted.
+
+### [Leetcode Link](https://leetcode.com/problems/verifying-an-alien-dictionary/)
